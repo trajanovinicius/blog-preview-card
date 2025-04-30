@@ -1,0 +1,12 @@
+:root {
+	--gray-500: #6b6b6b;
+	--gray-950: #111;
+	--yellow: #f4d04e;
+	--white: #fff;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
